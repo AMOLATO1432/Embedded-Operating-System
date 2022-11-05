@@ -1,7 +1,7 @@
 # Embedded-Operating-System
 **Implementation of the following scheduling algorithm using TinkerCAD.**
 
-<br/><br/>**TINKERCAD links and Video links:**
+<br/>**TINKERCAD links and Video links:**
 
 <br/>**First In First Out (FIFO) Algorithm (Simulation)** https://www.tinkercad.com/things/6WucMyHGxjv-embedded-operating-system-fifo/editel?sharecode=A74QbZjS2k6_wEn4oTZ0Q0sUQi3bpGlTR479B6v7JUA
 <br/>**First In First Out (FIFO) Algorithm (Screen Video Recording)**  https://drive.google.com/file/d/1KGpbSPRSdYQZOKmzgeAp7Ksyf9wJXcph/view?usp=sharing
